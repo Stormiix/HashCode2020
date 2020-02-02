@@ -1,0 +1,6 @@
+inputs/*
+!inputs
+outputs/*
+!outputs
+*.zip
+*.rar
