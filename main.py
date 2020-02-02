@@ -21,6 +21,7 @@ for file in files:
     result = []
 
     def solution(slices, pizzaTypes=orderedPizzas.copy()):
+        """ 1,505,004,318 score solution """
         results = []
         slicesLeft = slices
         stop = False
